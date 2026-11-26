@@ -28,7 +28,7 @@ powertoys-accesos/
 1. Clona el repositorio:
 
    ```powershell
-   git clone https://github.com/TU-USUARIO/powertoys-accesos.git
+   git clone https://github.com/morkmorquecho/powertoys-accesos.git
    cd powertoys-accesos
    ```
 
