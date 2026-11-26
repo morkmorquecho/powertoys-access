@@ -1,0 +1,6 @@
+{
+  "flex-41": "http://10.10.11.41:5471/",
+  "flex-doc": "https://invoiceflex-docs.mork-morquecho.workers.dev/",
+  "flex-local": "http://localhost:5471/",
+  "flex-redoc": "http://10.10.11.41:5471/api/redoc/"
+}
